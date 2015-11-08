@@ -60,6 +60,7 @@ For a quick course in Type Theory, Philip Wadler recommends: *Types and Programm
 
 ### Papers
 
+  - [Intuitionistic Type Theory](http://www.csie.ntu.edu.tw/~b94087/ITT.pdf)
   - Lambda Calculi with Types — Henk Barendregt [pdf](http://ttic.uchicago.edu/~dreyer/course/papers/barendregt.pdf)
   - A Tutorial Implementation of a Dependently Typed Lambda Calculus - Andres Löh, Conor McBride and Wouter Swierstra [www](http://www.andres-loeh.de/LambdaPi/) [pdf](http://www.andres-loeh.de/LambdaPi/LambdaPi.pdf), was previously published as "Simply Easy" [pdf](http://strictlypositive.org/Easy.pdf)
 
